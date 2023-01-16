@@ -9,7 +9,7 @@ Create self service program on python for helping customers
 4. Customers must be able to see total transaction before proceed to pay
 5. Customers get the "order's confirmed" when the input is right
 6. Customers get the "error message" when there's error on the input
-7. Discount on the customers transaction when certain amount of total is achieved
+7. Discount applied when certain amount of total is achieved
 # FLOWCHART
 # MODULES EXPLANATION
 # HOW TO USE 
