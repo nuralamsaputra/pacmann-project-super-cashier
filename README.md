@@ -1,1 +1,9 @@
-# pacmann-project-super-cashier
+# PYTHON PROJECT SUPER CASHIER
+Nur Alam Saputra / nuralamsaputraa@gmail.com
+
+# PROJECT BACKGROUNDS
+# FEATURE REQUIREMENTS
+# FLOWCHART
+# MODULES EXPLANATION
+# TEST CASE
+# CONCLUSION
